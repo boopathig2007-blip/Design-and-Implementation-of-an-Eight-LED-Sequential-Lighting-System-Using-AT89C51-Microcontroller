@@ -181,5 +181,6 @@ Traffic-light demonstrations
 Embedded-system prototypes
 Microcontroller learning projects
 ## Result
+
 The eight-LED sequential lighting system using the AT89C51 microcontroller** was successfully designed and implemented. The eight LEDs connected to Port 2 of the AT89C51 glowed **sequentially from LED1 to LED8 with a predefined time delay. The sequence was repeated continuously, producing a running-light effect.Thus, the required sequential LED lighting operation was successfully achieved and verified through simulation.
 
