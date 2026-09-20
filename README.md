@@ -13,6 +13,7 @@ To generate a sequential LED lighting pattern.
 To implement software delay using Embedded C.
 To understand bit shifting and port manipulation.
 To simulate the circuit using Proteus.
+
 ## Hardware Requirements
 Component	Quantity
 AT89C51 Microcontroller	1
